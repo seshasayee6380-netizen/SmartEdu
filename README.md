@@ -1,6 +1,6 @@
 # SmartEdu — Intelligent Attendance & Academic Success Platform
 
-SmartEdu is a hackathon prototype that combines verified QR attendance, classroom proximity verification, timetable/free-period intelligence, personalized academic recommendations, daily planning, academic risk detection, parent alerts, and analytics.
+SmartEdu is a prototype that combines verified QR attendance, classroom proximity verification, timetable/free-period intelligence, personalized academic recommendations, daily planning, academic risk detection, parent alerts, and analytics.
 
 ## Core flow
 
